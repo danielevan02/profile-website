@@ -86,6 +86,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.png", "/twilio.svg"],
     link: "https://carepulse-healthcareapp.vercel.app/",
   },
+  {
+    id: 3,
+    title: "Mesengger Clone",
+    des: "A clone version of Mesengger that build by Meta. Implementing Realtime Features using Pusher ",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/pusher.png", "/nextauth.png"],
+    link: "https://mesenger.vercel.app/",
+  },
 ];
 
 export const workExperience = [
